@@ -1,1 +1,6 @@
 ./keys/api_key.dart
+**/api_key.dart
+api_key.dart
+./api_key.dart
+/api_key.dart
+.api_key.dart

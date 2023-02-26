@@ -45,3 +45,9 @@ app.*.map.json
 
 # ignore the keys
 /keys/api_key.dart
+./keys/api_key.dart
+**/api_key.dart
+api_key.dart
+./api_key.dart
+/api_key.dart
+.api_key.dart
