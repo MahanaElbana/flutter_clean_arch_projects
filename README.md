@@ -15,4 +15,5 @@ Applying Clean Architecture in Flutter projects
     git checkout main
     git push --set-upstream origin main
     git branch 
+    git branch --delete master
    ```
