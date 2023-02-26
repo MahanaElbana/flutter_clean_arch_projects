@@ -42,7 +42,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-/lib/keys
+
 # ignore the keys
 /lib/keys
 ./keys/api_key.dart
