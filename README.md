@@ -1,6 +1,20 @@
 # Flutter Clean Arch Projects 💙💙
 Applying Clean Architecture in Flutter projects 
 
+
+
+<p align="center">
+  <code><img height="60" src="./pictures/dart_logo.png"/>      </code>
+   <code><img height="70" src="./pictures/flutter3.png"/>       </code> 
+  <code><img height="60" src="./pictures/flutter_logo.png"/>      </code>
+  <code><img height="60" src="./pictures/flutter_cm.png"/>    </code>
+
+</p>
+
+<p align="center">
+  <code><img height="70" src="./pictures/flutter33.png"/>       </code> 
+</p>
+
 ## One command To push Updating Code 💚
 ```
 git add . && git commit -m "clean Arch" && git push
