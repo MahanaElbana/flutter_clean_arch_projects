@@ -19,7 +19,7 @@ Applying Clean Architecture in Flutter projects
 ```
 git add . && git commit -m "clean Arch" && git push
 ```
-## How to Pull Repo in certain directoy on your local machine and Then push any update on Repo  💚
+## *Remember that* How to Pull Repo in certain directoy on your local machine and Then push any update on Repo  💚
  - initialize the projrect and pull Repo Content on your local machine 🌩️
    ```
     git init 
