@@ -44,7 +44,7 @@ app.*.map.json
 /android/app/release
 
 # ignore the keys
-/keys/api_key.dart
+/lib/keys
 ./keys/api_key.dart
 **/api_key.dart
 api_key.dart
