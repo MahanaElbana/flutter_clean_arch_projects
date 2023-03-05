@@ -412,7 +412,7 @@ class MoviesScreen extends StatelessWidget {
                                     highlightColor: Colors.grey[800]!,
                                     child: Container(
                                       height: 170.0,
-                                      width: 120.0,
+                                      width: 120.0 , 
                                       decoration: BoxDecoration(
                                         color: Colors.black,
                                         borderRadius:
