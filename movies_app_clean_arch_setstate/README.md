@@ -25,3 +25,16 @@
         .toList();
     return succcessData;
    ```
+## Add the line in **AndroidManifest.xml**
+ - The Path
+    /android/app/src/main/AndroidManifest.xml
+ - Added Line  
+   ```html
+       <!--this line is added for internet permission BY:MAHNEYELBANA -->
+       <uses-permission android:name="android.permission.INTERNET"/>
+       <!--this line is added for internet permission BY:MAHNEYELBANA -->
+   ``` 
+<p align="center">
+  <code><img  src="./pictures/movies_screen.png"/>   </code> 
+</p>
+

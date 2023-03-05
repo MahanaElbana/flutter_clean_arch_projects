@@ -11,6 +11,7 @@ class MoviesApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return   MaterialApp(
+      debugShowCheckedModeBanner: false,
       scrollBehavior: AppScrollBehavior(),
       title: MoviesAppStrings.title,
       home: const MoviesScreen(),
